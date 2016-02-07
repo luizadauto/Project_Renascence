@@ -891,7 +891,7 @@ end of skip
 919	1	Gold Candy	Gold Candy	Gold Candy	Gold Candy
 920	1	Taekuk Hempen Hood	Taekuk Hempen Hood	Taekuk Hempen Hood	Taekuk Hempen Hood
 921	1	Taekuk Skirt	Taekuk Skirt	Taekuk Skirt	Taekuk Skirt
-922	1	Anel Antigo Lv.1	Anel Antigo Lv.1	Anel Antigo Lv.1	Anel Antigo Lv.1
+922	1	Anel Ancestral Lv.1	Anel Ancestral Lv.1	Anel Ancestral Lv.1	Anel Ancestral Lv.1
 923	1	Kimono Wear	Kimono Wear	Kimono Wear	Kimono Wear
 924	1	Kimono Pants	Kimono Pants	Kimono Pants	Kimono Pants
 925	1	Scroll of NAgen	Scroll of NAgen	Scroll of NAgen	Scroll of NAgen
@@ -902,9 +902,9 @@ end of skip
 930	1	Dragon Anel	Dragon Anel	Dragon Anel	Dragon Anel
 931	1	Seed	Seed	Seed	Seed
 932	1	Violent Tree	Violent Tree	Violent Tree	Violent Tree
-933	1	Anel Antigo Lv.2	Anel Antigo Lv.2	Anel Antigo Lv.2	Anel Antigo Lv.2
-934	1	Anel Antigo Lv.3	Anel Antigo Lv.3	Anel Antigo Lv.3	Anel Antigo Lv.3
-935	1	Anel Antigo Lv.4	Anel Antigo Lv.4	Anel Antigo Lv.4	Anel Antigo Lv.4
+933	1	Anel Ancestral Lv.2	Anel Ancestral Lv.2	Anel Ancestral Lv.2	Anel Ancestral Lv.2
+934	1	Anel Ancestral Lv.3	Anel Ancestral Lv.3	Anel Ancestral Lv.3	Anel Ancestral Lv.3
+935	1	Anel Ancestral Lv.4	Anel Ancestral Lv.4	Anel Ancestral Lv.4	Anel Ancestral Lv.4
 936	1	Amplified Mission Receiver	Amplified Mission Receiver	Amplified Mission Receiver	Amplified Mission Receiver
 937	1	Hercules Finger Anel	Hercules Finger Anel	Hercules Finger Anel	Hercules Finger Anel
 938	1	Zeus Finger Anel	Zeus Finger Anel	Zeus Finger Anel	Zeus Finger Anel
@@ -1001,7 +1001,7 @@ end of skip
 1029	1	Capa High-Meta Kalipton	Capa High-Meta Kalipton	Capa High-Meta Kalipton	Capa High-Meta Kalipton
 1030	1	Asa High-Meta Aidia	Asa High-Meta Aidia	Asa High-Meta Aidia	Asa High-Meta Aidia
 1031	1	Gift of Love	Gift of Love	Gift of Love	Gift of Love
-1032	1	Anel Antigo Lv.5	Anel Antigo Lv.5	Anel Antigo Lv.5	Anel Antigo Lv.5
+1032	1	Anel Ancestral Lv.5	Anel Ancestral Lv.5	Anel Ancestral Lv.5	Anel Ancestral Lv.5
 1033	1	Taeguk Head Band	Taeguk Head Band	Taeguk Head Band	Taeguk Head Band
 1034	1	Taeguk Cloak	Taeguk Cloak	Taeguk Cloak	Taeguk Cloak
 1035	1	Taeguk Wing	Taeguk Wing	Taeguk Wing	Taeguk Wing
@@ -1669,9 +1669,9 @@ end of skip
 1706	1	Machado Celestial	Machado Celestial	Machado Celestial	Machado Celestial
 1707	1	Dragon Rifle	Dragon Rifle	Dragon Rifle	Dragon Rifle
 1708	0	Miracle Garland	Miracle Garland	Miracle Garland	Miracle Garland
-1709	1	Spirit Baby Red Pochi	Spirit Baby Red Pochi	Spirit Baby Red Pochi	Spirit Baby Red Pochi
-1710	1	Spirit Baby Blue Hichi	Spirit Baby Blue Hichi	Spirit Baby Blue Hichi	Spirit Baby Blue Hichi
-1711	1	Spirit Baby Yellow Echi	Spirit Baby Yellow Echi	Spirit Baby Yellow Echi	Spirit Baby Yellow Echi
+1709	1	Bebe Fantasma (Vermelho)	Bebe Fantasma (Vermelho)	Bebe Fantasma (Vermelho)	Bebe Fantasma (Vermelho)
+1710	1	Bebe Fantasma (Azul)	Bebe Fantasma (Azul)	Bebe Fantasma (Azul)	Bebe Fantasma (Azul)
+1711	1	Bebe Fantasma (Amarelo)	Bebe Fantasma (Amarelo)	Bebe Fantasma (Amarelo)	Bebe Fantasma (Amarelo)
 1712	1	Muramasa Sword	Muramasa Sword	Muramasa Sword	Muramasa Sword
 1713	1	Ancient Mantle	Ancient Mantle	Ancient Mantle	Ancient Mantle
 1714	1	Crash Axe	Crash Axe	Crash Axe	Crash Axe
