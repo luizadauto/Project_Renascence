@@ -540,7 +540,7 @@ end of skip
 551	1	Pedra Magica Gnome	Pedra Magica Gnome	Pedra Magica Gnome	Pedra Magica Gnome
 552	1	Pedra Magica Nymph	Pedra Magica Nymph	Pedra Magica Nymph	Pedra Magica Nymph
 553	1	Pedra Magica Sylph 	Pedra Magica Sylph 	Pedra Magica Sylph 	Pedra Magica Sylph 
-554	1	Salamander Rune Stone	Salamander Rune Stone	Salamander Rune Stone	Salamander Rune Stone
+554	1	Pedra Magica Salamander	Pedra Magica Salamander	Pedra Magica Salamander	Pedra Magica Salamander
 555	1	Amiga Rune Stone Refiner	Amiga Rune Stone Refiner	Amiga Rune Stone Refiner	Amiga Rune Stone Refiner
 556	1	Pedra Magica Gnome Refiner	Pedra Magica Gnome Refiner	Pedra Magica Gnome Refiner	Pedra Magica Gnome Refiner
 557	1	Pedra Magica Nymph Refiner	Pedra Magica Nymph Refiner	Pedra Magica Nymph Refiner	Pedra Magica Nymph Refiner
@@ -706,11 +706,11 @@ end of skip
 720	0	Kailipton Wand	Kailipton Wand	Kailipton Wand	Kailipton Wand
 722	0	Bullet	Bullet	Bullet	Bullet
 723	0	Mini-Device	Mini-Device	Mini-Device	Mini-Device
-724	1	Slayer	Slayer	Slayer	Slayer
-725	1	Demolition	Demolition	Demolition	Demolition
-726	1	Heavy Slayer	Heavy Slayer	Heavy Slayer	Heavy Slayer
-727	1	Heavy Demolition	Heavy Demolition	Heavy Demolition	Heavy Demolition
-728	1	Power Slayer	Power Slayer	Power Slayer	Power Slayer
+724	1	Assassino	Assassino	Assassino	Assassino
+725	1	Demolicao	Demolicao	Demolicao	Demolicao
+726	1	Assassino Pesado	Assassino Pesado	Assassino Pesado	Assassino Pesado
+727	1	Demolicao Pesada	Demolicao Pesada	Demolicao Pesada	Demolicao Pesada
+728	1	Poder Assassino	Poder Assassino	Poder Assassino	Poder Assassino
 729	1	Poder de Demolicao	Poder de Demolicao	Poder de Demolicao	Poder de Demolicao
 730	1	Dragao Assassino	Dragao Assassino	Dragao Assassino	Dragao Assassino
 731	1	Petrify Chakuram	Petrify Chakuram	Petrify Chakuram	Petrify Chakuram
@@ -721,7 +721,7 @@ end of skip
 736	1	Power Stun Chakuram	Power Stun Chakuram	Power Stun Chakuram	Power Stun Chakuram
 737	1	Magic Chakuram	Magic Chakuram	Magic Chakuram	Magic Chakuram
 738	1	Slash Chakuram	Slash Chakuram	Slash Chakuram	Slash Chakuram
-739	1	Grindstone(500)	Grindstone(500)	Grindstone(500)	Grindstone(500)
+739	1	Pedra Amoladeira(500)	Pedra Amoladeira(500)	Pedra Amoladeira(500)	Pedra Amoladeira(500)
 740	1	Charging Cannon	Charging Cannon	Charging Cannon	Charging Cannon
 741	1	Flame Thrower	Flame Thrower	Flame Thrower	Flame Thrower
 742	1	Laser Weapon	Laser Weapon	Laser Weapon	Laser Weapon
@@ -739,57 +739,57 @@ end of skip
 754	1	Rocket Gun-MK2	Rocket Gun-MK2	Rocket Gun-MK2	Rocket Gun-MK2
 755	1	Rocket Launcher	Rocket Launcher	Rocket Launcher	Rocket Launcher
 756	1	Nuclear	Nuclear	Nuclear	Nuclear
-757	1	Charging Shell	Charging Shell	Charging Shell	Charging Shell
-758	1	Charging Shell Set	Charging Shell Set	Charging Shell Set	Charging Shell Set
-759	1	Flame Capsule	Flame Capsule	Flame Capsule	Flame Capsule
-760	1	Flame Capsule Set	Flame Capsule Set	Flame Capsule Set	Flame Capsule Set
-761	1	Laser Capsule	Laser Capsule	Laser Capsule	Laser Capsule
-762	1	Laser Capsule Set	Laser Capsule Set	Laser Capsule Set	Laser Capsule Set
+757	1	Capsula CC	Capsula CC	Capsula CC	Capsula CC
+758	1	Carregador CC	Carregador CC	Carregador CC	Carregador CC
+759	1	Capsula Flame 	Capsula Flame 	Capsula Flame 	Capsula Flame 
+760	1	Capsula Flame Grande	Capsula Flame Grande	Capsula Flame Grande	Capsula Flame Grande
+761	1	Capsula Laser	Capsula Laser	Capsula Laser	Capsula Laser
+762	1	Capsula Laser Grande	Capsula Laser Grande	Capsula Laser Grande	Capsula Laser Grande
 763	1	Mini Mine	Mini Mine	Mini Mine	Mini Mine
 764	1	Mini Mine Set	Mini Mine Set	Mini Mine Set	Mini Mine Set
 765	1	Mini Rocket	Mini Rocket	Mini Rocket	Mini Rocket
 766	1	Rocket Cannon	Rocket Cannon	Rocket Cannon	Rocket Cannon
-767	1	Nuclear Missile	Nuclear Missile	Nuclear Missile	Nuclear Missile
+767	1	Missil Nuclear	Missil Nuclear	Missil Nuclear	Missil Nuclear
 768	1	Arrow Wand	Arrow Wand	Arrow Wand	Arrow Wand
-769	1	Bullet Wand	Bullet Wand	Bullet Wand	Bullet Wand
+769	1	Varinha de tiro Magico	Varinha de tiro Magico	Varinha de tiro Magico	Varinha de tiro Magico
 770	1	Varinha Relampago	Varinha Relampago	Varinha Relampago	Varinha Relampago
-771	1	Meteorite Wand	Meteorite Wand	Meteorite Wand	Meteorite Wand
+771	1	Varinha de Meteorito	Varinha de Meteorito	Varinha de Meteorito	Varinha de Meteorito
 772	1	Varinha Gelida	Varinha Gelida	Varinha Gelida	Varinha Gelida
-773	1	Sword Wand	Sword Wand	Sword Wand	Sword Wand
-774	1	Storm Wand	Storm Wand	Storm Wand	Storm Wand
+773	1	Varinha Ardente	Varinha Ardente	Varinha Ardente	Varinha Ardente
+774	1	Varinha Tempestade	Varinha Tempestade	Varinha Tempestade	Varinha Tempestade
 775	1	Varinha Onda Mortal	Varinha Onda Mortal	Varinha Onda Mortal	Varinha Onda Mortal
-776	1	Wand charger Lv.1	Wand charger Lv.1	Wand charger Lv.1	Wand charger Lv.1
-777	1	Wand charger Lv.2	Wand charger Lv.2	Wand charger Lv.2	Wand charger Lv.2
-778	1	Wand charger Lv.3	Wand charger Lv.3	Wand charger Lv.3	Wand charger Lv.3
-779	1	Wand charger Lv.4	Wand charger Lv.4	Wand charger Lv.4	Wand charger Lv.4
-780	1	DoT Damage Lv.1	DoT Damage Lv.1	DoT Damage Lv.1	DoT Damage Lv.1
-781	1	DoT Damage Lv.3	DoT Damage Lv.3	DoT Damage Lv.3	DoT Damage Lv.3
-782	1	DoT Damage Lv.5	DoT Damage Lv.5	DoT Damage Lv.5	DoT Damage Lv.5
-783	1	Paralysis Lv.1	Paralysis Lv.1	Paralysis Lv.1	Paralysis Lv.1
-784	1	Paralysis Lv.3	Paralysis Lv.3	Paralysis Lv.3	Paralysis Lv.3
-785	1	Paralysis Lv.5	Paralysis Lv.5	Paralysis Lv.5	Paralysis Lv.5
-786	1	Confusion Lv.1	Confusion Lv.1	Confusion Lv.1	Confusion Lv.1
-787	1	Confusion Lv.3	Confusion Lv.3	Confusion Lv.3	Confusion Lv.3
-788	1	Confusion Lv.5	Confusion Lv.5	Confusion Lv.5	Confusion Lv.5
-789	1	Blackhole Lv.1	Blackhole Lv.1	Blackhole Lv.1	Blackhole Lv.1
-790	1	Blackhole Lv.3	Blackhole Lv.3	Blackhole Lv.3	Blackhole Lv.3
-791	1	Blackhole Lv.5	Blackhole Lv.5	Blackhole Lv.5	Blackhole Lv.5
-792	1	Cold Lv.2	Cold Lv.2	Cold Lv.2	Cold Lv.2
-793	1	Cold Lv.4	Cold Lv.4	Cold Lv.4	Cold Lv.4
-794	1	Cold Lv.6	Cold Lv.6	Cold Lv.6	Cold Lv.6
-795	1	Stunlock Lv.2	Stunlock Lv.2	Stunlock Lv.2	Stunlock Lv.2
-796	1	Stunlock Lv.4	Stunlock Lv.4	Stunlock Lv.4	Stunlock Lv.4
-797	1	Stunlock Lv.6	Stunlock Lv.6	Stunlock Lv.6	Stunlock Lv.6
-798	1	Protection Lv.4	Protection Lv.4	Protection Lv.4	Protection Lv.4
-799	1	Protection Lv.5	Protection Lv.5	Protection Lv.5	Protection Lv.5
-800	1	Protection Lv.6	Protection Lv.6	Protection Lv.6	Protection Lv.6
-801	1	Book (1~4)	Book (1~4)	Book (1~4)	Book (1~4)
-802	1	Red Book(1~4)	Red Book(1~4)	Red Book(1~4)	Red Book(1~4)
-803	1	Normal Book(5)	Normal Book(5)	Normal Book(5)	Normal Book(5)
-804	1	Red Book(5)	Red Book(5)	Red Book(5)	Red Book(5)
-805	1	Normal Book(6)	Normal Book(6)	Normal Book(6)	Normal Book(6)
-806	1	Red Book(6)	Red Book(6)	Red Book(6)	Red Book(6)
-807	1	Grindstone(1000)	Grindstone(1000)	Grindstone(1000)	Grindstone(1000)
+776	1	Carregador de varinha Lv.1	Carregador de varinha Lv.1	Carregador de varinha Lv.1	Carregador de varinha Lv.1
+777	1	Carregador de varinha Lv.2	Carregador de varinha Lv.2	Carregador de varinha Lv.2	Carregador de varinha Lv.2
+778	1	Carregador de varinha Lv.3	Carregador de varinha Lv.3	Carregador de varinha Lv.3	Carregador de varinha Lv.3
+779	1	Carregador de varinha Lv.4	Carregador de varinha Lv.4	Carregador de varinha Lv.4	Carregador de varinha Lv.4
+780	1	Dano Acumulado Lv.1	Dano Acumulado Lv.1	Dano Acumulado Lv.1	Dano Acumulado Lv.1
+781	1	Dano Acumulado Lv.3	Dano Acumulado Lv.3	Dano Acumulado Lv.3	Dano Acumulado Lv.3
+782	1	Dano Acumulado Lv.5	Dano Acumulado Lv.5	Dano Acumulado Lv.5	Dano Acumulado Lv.5
+783	1	Paralisacao Lv.1	Paralisacao Lv.1	Paralisacao Lv.1	Paralisacao Lv.1
+784	1	Paralisacao Lv.3	Paralisacao Lv.3	Paralisacao Lv.3	Paralisacao Lv.3
+785	1	Paralisacao Lv.5	Paralisacao Lv.5	Paralisacao Lv.5	Paralisacao Lv.5
+786	1	Confusao Lv.1	Confusao Lv.1	Confusao Lv.1	Confusao Lv.1
+787	1	Confusao Lv.3	Confusao Lv.3	Confusao Lv.3	Confusao Lv.3
+788	1	Confusao Lv.5	Confusao Lv.5	Confusao Lv.5	Confusao Lv.5
+789	1	Buraco Negro Lv.1	Buraco Negro Lv.1	Buraco Negro Lv.1	Buraco Negro Lv.1
+790	1	Buraco Negro Lv.3	Buraco Negro Lv.3	Buraco Negro Lv.3	Buraco Negro Lv.3
+791	1	Buraco Negro Lv.5	Buraco Negro Lv.5	Buraco Negro Lv.5	Buraco Negro Lv.5
+792	1	Frio Lv.2	Frio Lv.2	Frio Lv.2	Frio Lv.2
+793	1	Frio Lv.4	Frio Lv.4	Frio Lv.4	Frio Lv.4
+794	1	Frio Lv.6	Frio Lv.6	Frio Lv.6	Frio Lv.6
+795	1	Petrificacao Lv.2	Petrificacao Lv.2	Petrificacao Lv.2	Petrificacao Lv.2
+796	1	Petrificacao Lv.4	Petrificacao Lv.4	Petrificacao Lv.4	Petrificacao Lv.4
+797	1	Petrificacao Lv.6	Petrificacao Lv.6	Petrificacao Lv.6	Petrificacao Lv.6
+798	1	Protecao Lv.4	Protecao Lv.4	Protecao Lv.4	Protecao Lv.4
+799	1	Protecao Lv.5	Protecao Lv.5	Protecao Lv.5	Protecao Lv.5
+800	1	Protecao Lv.6	Protecao Lv.6	Protecao Lv.6	Protecao Lv.6
+801	1	Livro (1~4)	Livro (1~4)	Livro (1~4)	Livro (1~4)
+802	1	Livro Vermelho(1~4)	Livro Vermelho(1~4)	Livro Vermelho(1~4)	Livro Vermelho(1~4)
+803	1	Livro Azul(5)	Livro Azul(5)	Livro Azul(5)	Livro Azul(5)
+804	1	Livro Vermelho(5)	Livro Vermelho(5)	Livro Vermelho(5)	Livro Vermelho(5)
+805	1	Livro Azul(6)	Livro Azul(6)	Livro Azul(6)	Livro Azul(6)
+806	1	Livro Vermelho(6)	Livro Vermelho(6)	Livro Vermelho(6)	Livro Vermelho(6)
+807	1	Pedra Amoladeira(1000)	Pedra Amoladeira(1000)	Pedra Amoladeira(1000)	Pedra Amoladeira(1000)
 808	1	Chmero Summon Stone	Chmero Summon Stone	Chmero Summon Stone	Chmero Summon Stone
 809	1	Super Chmero Summon Stone	Super Chmero Summon Stone	Super Chmero Summon Stone	Super Chmero Summon Stone
 810	1	Jackal Summon Stone	Jackal Summon Stone	Jackal Summon Stone	Jackal Summon Stone
@@ -806,7 +806,7 @@ end of skip
 832	1	Volt Resistance	Volt Resistance	Volt Resistance	Volt Resistance
 833	1	Volcanic Resistance	Volcanic Resistance	Volcanic Resistance	Volcanic Resistance
 834	1	Petrifaction Resistance	Petrifaction Resistance	Petrifaction Resistance	Petrifaction Resistance
-835	1	Cold Resistance	Cold Resistance	Cold Resistance	Cold Resistance
+835	1	Frio Resistance	Frio Resistance	Frio Resistance	Frio Resistance
 836	1	Electric Shock	Electric Shock	Electric Shock	Electric Shock
 837	1	Electric Power Saver	Electric Power Saver	Electric Power Saver	Electric Power Saver
 838	1	Electric Power Amplifier	Electric Power Amplifier	Electric Power Amplifier	Electric Power Amplifier
@@ -916,8 +916,8 @@ end of skip
 944	1	Paros Warp	Paros Warp	Paros Warp	Paros Warp
 945	1	Luxurious Toy	Luxurious Toy	Luxurious Toy	Luxurious Toy
 946	1	Toy	Toy	Toy	Toy
-947	1	Mammoth Slayer	Mammoth Slayer	Mammoth Slayer	Mammoth Slayer
-948	1	Mammoth Demolition	Mammoth Demolition	Mammoth Demolition	Mammoth Demolition
+947	1	Mamute Assassino	Mamute Assassino	Mamute Assassino	Mamute Assassino
+948	1	Mamute Demolidor	Mamute Demolidor	Mamute Demolidor	Mamute Demolidor
 949	1	Magic Sword Wand	Magic Sword Wand	Magic Sword Wand	Magic Sword Wand
 950	1	Charging Cannon-MK1 BP	Charging Cannon-MK1 BP	Charging Cannon-MK1 BP	Charging Cannon-MK1 BP
 951	1	Charging Cannon-MK2 SP	Charging Cannon-MK2 SP	Charging Cannon-MK2 SP	Charging Cannon-MK2 SP
@@ -974,8 +974,8 @@ end of skip
 1002	1	Summer set Pants	Summer set Pants	Summer set Pants	Summer set Pants
 1003	1	Summer set sandals	Summer set sandals	Summer set sandals	Summer set sandals
 1004	1	Mine	Mine	Mine	Mine
-1005	1	Chakuram Grindstone(1000)	Chakuram Grindstone(1000)	Chakuram Grindstone(1000)	Chakuram Grindstone(1000)
-1006	1	Chakuram Grindstone(500)	Chakuram Grindstone(500)	Chakuram Grindstone(500)	Chakuram Grindstone(500)
+1005	1	Chakuram Pedra Amoladeira(1000)	Chakuram Pedra Amoladeira(1000)	Chakuram Pedra Amoladeira(1000)	Chakuram Pedra Amoladeira(1000)
+1006	1	Chakuram Pedra Amoladeira(500)	Chakuram Pedra Amoladeira(500)	Chakuram Pedra Amoladeira(500)	Chakuram Pedra Amoladeira(500)
 1007	1	Thanks	Thanks	Thanks	Thanks
 1008	1	Giving	Giving	Giving	Giving
 1009	1	Day	Day	Day	Day
@@ -1063,7 +1063,7 @@ end of skip
 1091	1	Fury of Thunder	Fury of Thunder	Fury of Thunder	Fury of Thunder
 1092	1	Seal of Freedom	Seal of Freedom	Seal of Freedom	Seal of Freedom
 1093	1	Seal of Hero	Seal of Hero	Seal of Hero	Seal of Hero
-1094	1	Power of Protection	Power of Protection	Power of Protection	Power of Protection
+1094	1	Power of Protecao	Power of Protecao	Power of Protecao	Power of Protecao
 1095	1	Metamorphosis	Metamorphosis	Metamorphosis	Metamorphosis
 1096	1	Wave of Change	Wave of Change	Wave of Change	Wave of Change
 1097	1	Sign of Life	Sign of Life	Sign of Life	Sign of Life
@@ -1159,14 +1159,14 @@ end of skip
 1195	1	Jin - Splendor Armor	Jin - Splendor Armor	Jin - Splendor Armor	Jin - Splendor Armor
 1196	1	Jin - Splendor Pants	Jin - Splendor Pants	Jin - Splendor Pants	Jin - Splendor Pants
 1197	1	Jin - Splendor Boots	Jin - Splendor Boots	Jin - Splendor Boots	Jin - Splendor Boots
-1198	1	Franz Helmet	Franz Helmet	Franz Helmet	Franz Helmet
-1199	1	Franz Armor	Franz Armor	Franz Armor	Franz Armor
-1200	1	Franz Pants	Franz Pants	Franz Pants	Franz Pants
-1201	1	Franz Boots	Franz Boots	Franz Boots	Franz Boots
-1202	1	Blood Franz Helmet	Blood Franz Helmet	Blood Franz Helmet	Blood Franz Helmet
-1203	1	Blood Franz Armor	Blood Franz Armor	Blood Franz Armor	Blood Franz Armor
-1204	1	Blood Franz Pants	Blood Franz Pants	Blood Franz Pants	Blood Franz Pants
-1205	1	Blood Franz Boots	Blood Franz Boots	Blood Franz Boots	Blood Franz Boots
+1198	1	Capacete de Posseidon	Capacete de Posseidon	Capacete de Posseidon	Capacete de Posseidon
+1199	1	Armadura de Posseidon	Armadura de Posseidon	Armadura de Posseidon	Armadura de Posseidon
+1200	1	Calca de Posseidon	Calca de Posseidon	Calca de Posseidon	Calca de Posseidon
+1201	1	Botas de Posseidon	Botas de Posseidon	Botas de Posseidon	Botas de Posseidon
+1202	1	Capacete Reptil	Capacete Reptil	Capacete Reptil	Capacete Reptil
+1203	1	Armadura Reptil	Armadura Reptil	Armadura Reptil	Armadura Reptil
+1204	1	Calcas Reptil	Calcas Reptil	Calcas Reptil	Calcas Reptil
+1205	1	Botas Reptil	Botas Reptil	Botas Reptil	Botas Reptil
 1206	1	Luke Helmet	Luke Helmet	Luke Helmet	Luke Helmet
 1207	1	Luke Armor	Luke Armor	Luke Armor	Luke Armor
 1208	1	Luke Pants	Luke Pants	Luke Pants	Luke Pants
@@ -1543,9 +1543,9 @@ end of skip
 1580	1	Bag Extend (1)	Bag Extend (1)	Bag Extend (1)	Bag Extend (1)
 1581	1	Bag Extend (2)	Bag Extend (2)	Bag Extend (2)	Bag Extend (2)
 1582	1	Bag Extend (3)	Bag Extend (3)	Bag Extend (3)	Bag Extend (3)
-1583	0	Wand Charger Lv.2	Wand Charger Lv.2	Wand Charger Lv.2	Wand Charger Lv.2
-1584	0	Wand Charger Lv.3	Wand Charger Lv.3	Wand Charger Lv.3	Wand Charger Lv.3
-1585	0	Wand Charger Lv.4	Wand Charger Lv.4	Wand Charger Lv.4	Wand Charger Lv.4
+1583	0	Carregador de varinha Lv.2	Carregador de varinha Lv.2	Carregador de varinha Lv.2	Carregador de varinha Lv.2
+1584	0	Carregador de varinha Lv.3	Carregador de varinha Lv.3	Carregador de varinha Lv.3	Carregador de varinha Lv.3
+1585	0	Carregador de varinha Lv.4	Carregador de varinha Lv.4	Carregador de varinha Lv.4	Carregador de varinha Lv.4
 1586	1	Crown	Crown	Crown	Crown
 1587	1	Samurai Slayer	Samurai Slayer	Samurai Slayer	Samurai Slayer
 1588	1	Kourinn Shield	Kourinn Shield	Kourinn Shield	Kourinn Shield
@@ -1556,7 +1556,7 @@ end of skip
 1593	1	Training Pants	Training Pants	Training Pants	Training Pants
 1594	1	Training Boots	Training Boots	Training Boots	Training Boots
 1595	1	Training Hair Band	Training Hair Band	Training Hair Band	Training Hair Band
-1596	1	Book of Wisdom	Book of Wisdom	Book of Wisdom	Book of Wisdom
+1596	1	Livro of Wisdom	Livro of Wisdom	Livro of Wisdom	Livro of Wisdom
 1597	1	Ball of Joy	Ball of Joy	Ball of Joy	Ball of Joy
 1598	1	South Africa Cape	South Africa Cape	South Africa Cape	South Africa Cape
 1599	1	Alemanha Cape	Alemanha Cape	Alemanha Cape	Alemanha Cape
