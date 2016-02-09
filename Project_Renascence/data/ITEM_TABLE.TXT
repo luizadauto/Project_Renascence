@@ -721,7 +721,7 @@ end of skip
 736	1	Power Stun Chakuram	Power Stun Chakuram	Power Stun Chakuram	Power Stun Chakuram
 737	1	Magic Chakuram	Magic Chakuram	Magic Chakuram	Magic Chakuram
 738	1	Slash Chakuram	Slash Chakuram	Slash Chakuram	Slash Chakuram
-739	1	Pedra Amoladeira(500)	Pedra Amoladeira(500)	Pedra Amoladeira(500)	Pedra Amoladeira(500)
+739	1	Pedra Para Amolar/Afiar(500)	Pedra Para Amolar/Afiar (500)	Pedra Para Amolar/Afiar(500)	Pedra Para Amolar/Afiar(500)
 740	1	Charging Cannon	Charging Cannon	Charging Cannon	Charging Cannon
 741	1	Flame Thrower	Flame Thrower	Flame Thrower	Flame Thrower
 742	1	Laser Weapon	Laser Weapon	Laser Weapon	Laser Weapon
@@ -974,17 +974,17 @@ end of skip
 1002	1	Summer set Pants	Summer set Pants	Summer set Pants	Summer set Pants
 1003	1	Summer set sandals	Summer set sandals	Summer set sandals	Summer set sandals
 1004	1	Mine	Mine	Mine	Mine
-1005	1	Chakuram Pedra Amoladeira(1000)	Chakuram Pedra Amoladeira(1000)	Chakuram Pedra Amoladeira(1000)	Chakuram Pedra Amoladeira(1000)
-1006	1	Chakuram Pedra Amoladeira(500)	Chakuram Pedra Amoladeira(500)	Chakuram Pedra Amoladeira(500)	Chakuram Pedra Amoladeira(500)
-1007	1	Thanks	Thanks	Thanks	Thanks
+1005	1	Chakuram Pedra Para Amolar/Afiar(1000)	Chakuram Pedra Para Amolar/afiar(1000)	Chakuram Pedra Para Amolar/Afiar(1000)	Chakuram Pedra Para Amolar/Afiar(1000)
+1006	1	Chakuram Pedra Para Amolar/Afiar(500)	Chakuram Pedra Para Amolar/Afiar(500)	Chakuram Pedra Para Amolar/Afiar(500)	Chakuram Pedra Para Amolar/Afiar(500)
+1007	1	Obrigado	Obrigado	Obrigado	Obrigado
 1008	1	Giving	Giving	Giving	Giving
-1009	1	Day	Day	Day	Day
+1009	1	Dia	Dia	Dia	Dia
 1010	1	Free Gift Ticket	Free Gift Ticket	Free Gift Ticket	Free Gift Ticket
-1011	1	Special Attack Increaser	Special Attack Increaser	Special Attack Increaser	Special Attack Increaser
-1012	1	Special Defense Increaser	Special Defense Increaser	Special Defense Increaser	Special Defense Increaser
-1013	1	Special Double Experience	Special Double Experience	Special Double Experience	Special Double Experience
+1011	1	Incrivel especial Ataque	Incrivel especial Ataque	Incrivel especial Ataque	Incrivel especial Ataque
+1012	1	Incrivel especial Defesa	Incrivel especial Defesa	Incrivel especial Defesa	Incrivel especial Defesa
+1013	1	Especial dobro de Experiencia	Especial dobro de Experiencia	Especial dobro de Experiencia	Especial dobro de Experiencia
 1014	1	Lime	Lime	Lime	Lime
-1015	1	Memory Warp	Memory Warp	Memory Warp	Memory Warp
+1015	1	Teleporte Salvo  Teleporte Salvo Teleporte Salvo Teleporte Salvo
 1016	1	Charger Circuit	Charger Circuit	Charger Circuit	Charger Circuit
 1017	1	Magic Leather	Magic Leather	Magic Leather	Magic Leather
 1018	1	Chalk	Chalk	Chalk	Chalk
