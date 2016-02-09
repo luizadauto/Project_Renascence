@@ -519,18 +519,18 @@ end of skip
 539	Mana consumption: %d	????: %d	Mana consumption: %d	Mana consumption: %d
 540	Radar	????	Radar	Radar
 541	Destruidor de Barreiras	????????	Destruidor de Barreiras	Destruidor de Barreiras
-542	Switch to Fuzzy	??????	Switch to Fuzzy	Switch to Fuzzy
+542	Troca Nebulosa	??????	Troca Nebulosa	Troca Nebulosa
 543	Resistance to Bolts	????	Resistance to Bolts	Resistance to Bolts
 544	Resistencia Vulcanica	?????	Resistencia Vulcanica	Resistencia Vulcanica
-545	Resistencia ao Fogo	????	Resistencia ao Fogo	Resistencia ao Fogo
+545	Resistencia Vulcanica	????	Resistencia Vulcanica	Resistencia Vulcanica
 546	Resistência ao frio	????	Resistência ao frio	Resistência ao frio
 547	Choque Eletrico	?????????	Choque Eletrico	Choque Eletrico
-548	Absorb Electricity	???????	Absorb Electricity	Absorb Electricity
-549	Boosting Electricity	???????	Boosting Electricity	Boosting Electricity
+548	Absorcao a Eletricidade	???????	Absorcao a Eletricidade	Absorcao a Eletricidade
+549	Aumento de  Eletricidade	???????	Aumento de  Eletricidade	Aumento de  Eletricidade
 550	Atomic transfer	????	Atomic transfer	Atomic transfer
 551	Space distortion	????	Space distortion	Space distortion
-552	Spatial Controller	??????	Spatial Controller	Spatial Controller
-553	Total Resistance	????	Total Resistance	Total Resistance
+552	Controle Espacial	??????	Controle Espacial	Controle Espacial
+553	Resistencia Total	????	Resistencia Total	Resistencia Total
 554	Total Species	????	Total Species	Total Species
 555	Total Dano: %d	??????: %d	Total Dano: %d	Total Dano: %d
 556	Possibilidade de Explosao: %d	???????????: %d	Possibilidade de Explosao: %d	Possibilidade de Explosao: %d
@@ -570,20 +570,20 @@ end of skip
 590	Request: %s	????: %s	Request: %s	Request: %s
 591	Scroll: %d/%d	?????: %d/%d	Scroll: %d/%d	Scroll: %d/%d
 592	Ancient language Habilidade Nivel: %d	??????: %d	Ancient language Habilidade Nivel: %d	Ancient language Habilidade Nivel: %d
-593	Able to see Species of Shadow  Monster.	????????????????	Able to see Species of Shadow  Monster.	Able to see Species of Shadow  Monster.
-594	You can Deflect Species of Hard Barrier Attacks.	??????????????	You can Deflect Species of Hard Barrier Attacks.	You can Deflect Species of Hard Barrier Attacks.
-595	You can Deflect Species of Fuzzy Attacks.	????????????	You can Deflect Species of Fuzzy Attacks.	You can Deflect Species of Fuzzy Attacks.
-596	Aumenta resistance to Bolt Strike.	?????????????????	Aumenta resistance to Bolt Strike.	Aumenta resistance to Bolt Strike.
-597	Aumenta resistance to Volcanic Shot.	??????????????????	Aumenta resistance to Volcanic Shot.	Aumenta resistance to Volcanic Shot.
-598	Aumenta resistance to Fire Sparks.	???????????????	Aumenta resistance to Fire Sparks.	Aumenta resistance to Fire Sparks.
-599	Aumenta resistance to Cold Attack.	???????????????	Aumenta resistance to Cold Attack.	Aumenta resistance to Cold Attack.
-600	Reflect Dano to enemy when it Attacks.	??????????????	Reflect Dano to enemy when it Attacks.	Reflect Dano to enemy when it Attacks.
-601	Decreases electricity consumption when Electric Shield is used.	????????????????????????	Decreases electricity consumption when Electric Shield is used.	Decreases electricity consumption when Electric Shield is used.
-602	Used more electricity to Aumenta Attack power.	????????????????????????	Used more electricity to Aumenta Attack power.	Used more electricity to Aumenta Attack power.
-603	Use Random Teleport.	?????????????	Use Random Teleport.	Use Random Teleport.
-604	Makes you invisible to the enemy.	?????????	Makes you invisible to the enemy.	Makes you invisible to the enemy.
-605	Makes you see all invisible monsters.	???????????????	Makes you see all invisible monsters.	Makes you see all invisible monsters.
-606	All types of resistance powers will Aumenta.	????????????	All types of resistance powers will Aumenta.	All types of resistance powers will Aumenta.
+593	Utilizado para localizar Monstros do Cla das Trevas.	????????????????	Utilizado para localizar Monstros do Cla das Trevas.	Utilizado para localizar Monstros do Cla das Trevas..
+594	Utilizado para destruir Barreiras protetoras de monstros.	??????????????	Utilizado para destruir Barreiras protetoras de monstros.	Utilizado para destruir Barreiras protetoras de monstros.
+595	Utilizado para remover campo nebuloso dos monstros.	????????????	Utilizado para remover campo nebuloso dos monstros.	Utilizado para remover campo nebuloso dos monstros.
+596	Aumenta Resistencia Eletrica .	?????????????????	Aumenta Resistencia Eletrica .	Aumenta Resistencia Eletrica .
+597	Aumenta resistencia vulcanica.	??????????????????	Aumenta resistencia Vulcanica.	Aumenta resistencia Vulcanica.
+598	Aumenta resistencia a Petrificacao.	???????????????Aumenta resistencia a Petrificacao.	Aumenta resistencia a Petrificacao.
+599	Aumenta resistencia ao Frio.	???????????????	Aumenta resistencia ao Frio.	Aumenta resistencia ao Frio.
+600	Reflete Dano ao inimigo quando ele ataca.	??????????????	Reflita Dano ao inimigo quando ele ataca.	Reflita Dano ao inimigo quando ele ataca.
+601	Diminui o consumo de eletricidade quando Escudo elétrica esta em uso.	????????????????????????	Diminui o consumo de eletricidade quando Escudo elétrica esta em uso.	Diminui o consumo de eletricidade quando Escudo elétrica esta em uso
+602	Aumenta eletricidade, Aumenta  poder de Ataque.	????????????????????????	Aumenta eletricidade, Aumenta  poder de Ataque.	Aumenta eletricidade, Aumenta  poder de Ataque.
+603	Use Teleporte Aleatorio.	?????????????	Use Teleporte Aleatorio.	Use Teleporte Aleatorio.
+604	Faz você invisível para o inimigo.	?????????	Faz você invisível para o inimigo.	Faz você invisível para o inimigo.
+605	Faz você ver todos os monstros invisíveis.	???????????????	Faz você ver todos os monstros invisíveis.	Faz você ver todos os monstros invisíveis.
+606	Aumenta a restencia a tudo.	????????????	Aumenta a restencia a tudo.	Aumenta a restencia a tudo.
 607	Dissolve Destruction and Curse Species Attack.	??????????????	Dissolve Destruction and Curse Species Attack.	Dissolve Destruction and Curse Species Attack.
 608	Parte de maquinas utilizadas por Humanos	??????????	Parte de maquinas utilizadas por Humanos	Parte de maquinas utilizadas por Humanos
 609	Carregador Nivel %d	%d ?????????	Carregador Nivel %d	Carregador Nivel %d
@@ -611,9 +611,9 @@ end of skip
 631	Attacking power %d%% Aumenta	????? %d%%	Attacking power %d%% Aumenta	Attacking power %d%% Aumenta
 632	Summoning time %d%% Aumenta	?????? %d%%	Summoning time %d%% Aumenta	Summoning time %d%% Aumenta
 633	%d%% Mana consumption decreases	%d%% ????????	%d%% Mana consumption decreases	%d%% Mana consumption decreases
-634	Small equipment for Humano race	?????????	Small equipment for Humano race	Small equipment for Humano race
+634	Pequenos equipamentos para Humanos	?????????	Pequenos equipamentos para Humanos	Pequenos equipamentos para Humanos
 635	Kit de montagem + Kit processador(2)+ Kit processador(5)	?????+?????????(2)+?????(5)	Kit de montagem + Kit processador(2)+ Kit processador(5)	Kit de montagem + Kit processador(2)+ Kit processador(5)
-636	Switch to Fuzzy	??????	Switch to Fuzzy	Switch to Fuzzy
+636	Troca Nebulosa	??????	Troca Nebulosa	Troca Nebulosa
 637	Kit de montagem + Kit processador(3)+	?????+?????????(3)+	Kit de montagem + Kit processador(3)+	Kit de montagem + Kit processador(3)+
 638	Kit de Controle(1)+Capsula celular(2)	?????(1)+?????????(2)	Kit de Controle(1)+Capsula celular(2)	Kit de Controle(1)+Capsula celular(2)
 639	Destruidor de Barreiras	????????	Destruidor de Barreiras	Destruidor de Barreiras
@@ -621,40 +621,40 @@ end of skip
 641	Kit de Controle(1)+Capsula celular(2)	?????(1)+?????????(2)	Kit de Controle(1)+Capsula celular(2)	Kit de Controle(1)+Capsula celular(2)
 642	Radar	????	Radar	Radar
 643	Kit de montagem + Kit processador(2)+Kit de Controle(5)	?????+?????????(2)+?????(5)	Kit de montagem + Kit processador(2)+Kit de Controle(5)	Kit de montagem + Kit processador(2)+Kit de Controle(5)
-644	Resistance to Bolt	????	Resistance to Bolt	Resistance to Bolt
+644	Resistencia Eletrica	????	Resistencia Eletrica	Resistencia Eletrica
 645	Kit de montagem + Kit processador(5)+	?????+?????????(5)+	Kit de montagem + Kit processador(5)+	Kit de montagem + Kit processador(5)+
 646	Kit de Controle(4)+Capsula celular(2)+Capsula Antibiotica (3)	?????(4)+?????????(2)+??????(3)	Kit de Controle (4)+Capsula celular(2)+Capsula Antibiotica(3)	Kit de Controle(4)+Capsula celular(2)+Capsula Antibiotica(3)
 647	Resistencia Vulcanica	?????	Resistencia Vulcanica	Resistencia Vulcanica
 648	Kit de montagem + Kit processador(5)+	?????+?????????(5)+	Kit de montagem + Kit processador(5)+	Kit de montagem + Kit processador(5)+
 649	Kit de Controle(4)+Capsula celular(2)+Capsula Antibiotica(3)	?????(4)+?????????(2)+??????(3)	Kit de Controle(4)+Capsula celular(2)+Capsula Antibiotica(3)	Kit de Controle(4)+Capsula celular(2)+Capsula Antibiotica(3)
-650	Resistencia ao Fogo	????	Resistencia ao Fogo	Resistencia ao Fogo
+650	Resistencia Vulcanica	????	Resistencia Vulcanica	Resistencia Vulcanica
 651	Kit de montagem + Kit processador(5)+	?????+?????????(5)+	Kit de montagem + Kit processador(5)+	Kit de montagem + Kit processador(5)+
 652	Kit de Controle(4)+Capsula celular(2)+Capsula Antibiotica(3)	?????(4)+?????????(2)+??????(3)	Kit de Controle(4)+Capsula celular(2)+Capsula Antibiotica(3)	Kit de Controle(4)+Capsula celular(2)+Capsula Antibiotica(3)
 653	Resistência ao frio	????	Resistência ao frio	   Resistência ao frio
 654	Kit de montagem + Kit processador(5)+	?????+?????????(5)+	Kit de montagem + Kit processador(5)+	Kit de montagem + Kit processador(5)+
 655	Kit de Controle(4)+Capsula celular(2)+Capsula Antibiotica(3)	?????(4)+?????????(2)+??????(3)	Kit de Controle(4)+Capsula celular(2)+Capsula Antibiotica(3)	Kit de Controle(4)+Capsula celular(2)+Capsula Antibiotica(3)
 656	Choque Eletrico	?????????	Choque Eletrico	Choque Eletrico
-657	Assembly Kit+Radar(2)+Capsula celular(3)	?????+????(2)+?????????(3)	Assembly Kit+Radar(2)+Capsula celular(3)	Assembly Kit+Radar(2)+Capsula celular(3)
-658	Absorb Electricity	???????	Absorb Electricity	Absorb Electricity
-659	Assembly Kit+Radar(2)+Capsula celular(3)+	?????+????(2)+?????????(3)	Assembly Kit+Radar(2)+Capsula celular(3)+	Assembly Kit+Radar(2)+Capsula celular(3)+
+657	Kit de montagem+Radar(2)+Capsula celular(3)	?????+????(2)+?????????(3)	Kit de montagem+Radar(2)+Capsula celular(3)	Kit de montagem+Radar(2)+Capsula celular(3)
+658	Absorcao a Eletricidade	???????	Absorcao a Eletricidade	Absorcao a Eletricidade
+659	Kit de montagem+Radar(2)+Capsula celular(3)+	?????+????(2)+?????????(3)	Kit de montagem+Radar(2)+Capsula celular(3)+	Kit de montagem+Radar(2)+Capsula celular(3)+
 660	Capsula Antibiotica(5)	??????(5)	Capsula Antibiotica(5)	Capsula Antibiotica(5)
-661	Boost Electricity	???????	Boost Electricity	Boost Electricity
-662	Assembly Kit+Destruidor de Barreiras(1)+Kit de Controle(3)+	?????+????????(1)+?????(3)+	Assembly Kit+Destruidor de Barreiras(1)+Kit de Controle(3)+	Assembly Kit+Destruidor de Barreiras(1)+Kit de Controle(3)+
-663	Gene Capsule(3)	???????(3)	Gene Capsule(3)	Gene Capsule(3)
-664	Spatial Controller	??????	Spatial Controller	Spatial Controller
-665	Assembly Kit+Radar(9)+Gene Capsule(5)	?????+????(9)+???????(5)	Assembly Kit+Radar(9)+Gene Capsule(5)	Assembly Kit+Radar(9)+Gene Capsule(5)
-666	Total Resistance	????	Total Resistance	Total Resistance
-667	Assembly Kit+Resistance to Bolt(1)+Resistencia Vulcanica(1)+	?????+????(1)+?????(1)+	Assembly Kit+Resistance to Bolt(1)+Resistencia Vulcanica(1)+	Assembly Kit+Resistance to Bolt(1)+Resistencia Vulcanica(1)+
-668	Resistencia ao Fogo(1)+Resistência ao frio(1)+Gene Capsule(5)+	????(1)+????(1)+???????(5)+	Resistencia ao Fogo(1)+Resistência ao frio(1)+Gene Capsule(5)+	Resistencia ao Fogo(1)+Resistência ao frio(1)+Gene Capsule(5)+
-669	Harpoon Capsule(1)	???????????(1)	Harpoon Capsule(1)	Harpoon Capsule(1)
-670	Switch to Total	????	Switch to Total	Switch to Total
-671	Assembly Kit+Destruidor de Barreiras(3)+Gene Capsule(5)+	?????+????????(3)+???????(5)+	Assembly Kit+Destruidor de Barreiras(3)+Gene Capsule(5)+	Assembly Kit+Destruidor de Barreiras(3)+Gene Capsule(5)+
-672	Capsula Do Principe(1)+Switch to Fuzzy(3)	????????(1)+??????(3)	Capsula Do Principe(1)+Switch to Fuzzy(3)	Capsula Do Principe(1)+Switch to Fuzzy(3)
-673	Check your 'machine parts' and 'Kit'.	??'?'???'?????????	Check your 'machine parts' and 'Kit'.	Check your 'machine parts' and 'Kit'.
-674	Can be combined by Humano's only	??????????????	Can be combined by Humano's only	Can be combined by Humano's only
-675	Not enough Habilidade Nivel	????????	Not enough Habilidade Nivel	Not enough Habilidade Nivel
+661	Aumento de Eletricidade	???????	Aumento de Eletricidade	Aumento de Eletricidade
+662	Kit de montagem+Destruidor de Barreiras(1)+Kit de Controle(3)+	?????+????????(1)+?????(3)+	Kit de montagem+Destruidor de Barreiras(1)+Kit de Controle(3)+	Kit de montagem+Destruidor de Barreiras(1)+Kit de Controle(3)+
+663	Capsula Genetica(3)	???????(3)	Capsula Genetica(3)	Capsula Genetica(3)
+664	Controle Espacial	??????	Controle Espacial	Controle Espacial
+665	Kit de montagem+Radar(9)+Capsula Genetica(5)	?????+????(9)+???????(5)	Kit de montagem+Radar(9)+Capsula Genetica(5)	Kit de montagem+Radar(9)+Capsula Genetica(5)
+666	Resistencia Total	????	Resistencia Total	Resistencia Total
+667	Kit de montagem+Resistencia Eletrica(1)+Resistencia Vulcanica(1)+	?????+????(1)+?????(1)+	Kit de montagem+Resistencia Eletrica(1)+Resistencia Vulcanica(1)+	Kit de montagem+Resistencia Eletrica(1)+Resistencia Vulcanica(1)+
+668	Resistencia Vulcanica(1)+Resistência ao frio(1)+Capsula Genetica(5)+	????(1)+????(1)+???????(5)+	Resistencia Vulcanica(1)+Resistência ao frio(1)+Capsula Genetica(5)+	Resistencia Vulcanica(1)+Resistência ao frio(1)+Capsula Genetica(5)+
+669	Capsula Do Arpao(1)	???????????(1)	Capsula Do Arpao(1)	Capsula Do Arpao(1)
+670	Troca Total	????	Troca Total	  Troca Total
+671	Kit de montagem+Destruidor de Barreiras(3)+Capsula Genetica(5)+	?????+????????(3)+???????(5)+	Kit de montagem+Destruidor de Barreiras(3)+Capsula Genetica(5)+	Kit de montagem+Destruidor de Barreiras(3)+Capsula Genetica(5)+
+672	Capsula Do Principe(1)+Troca Nebulosa(3)	????????(1)+??????(3)	Capsula Do Principe(1)+Troca Nebulosa(3)	Capsula Do Principe(1)+Troca Nebulosa(3)
+673	Verifique 'as peças' e 'Kits'.	??'?'???'?????????	Verifique 'as peças' e 'Kits'.	Verifique 'as peças' e 'Kits'.
+674	Poder ser Montados Apenas Por Humanos??????????????	Poder ser Montados Apenas Por Humanos	Poder ser Montados Apenas Por Humanos
+675	Voce nao tem pontos de habilidades suficiente	????????	Voce nao tem pontos de habilidades suficiente	Voce nao tem pontos de habilidades suficiente
 676	Probabilidade de Confusao:: %d	???? : %d	Probabilidade de Confusao:: %d	Probabilidade de Confusao:: %d
-677	70 added to Defensive power, with one-handed weapon	??????????? +70	70 added to Defensive power, with one-handed weapon	Def +70, with 1-Hand weapon
+677	70 Adicionado ao poder de defesa, com apenas uma mao	??????????? +70	70 Adicionado ao poder de defesa, com apenas uma mao	Def +70, com 1-mao
 678	%s of %s	%s? %s	%s of %s	%s of %s
 679	(Hand) Clapping for cheering	????????	(Hand) Clapping for cheering	(???) ?????????????????????
 680	Tela rotativa	????	                    Tela rotativa	??????????
