@@ -1,0 +1,6 @@
+GUILD\GUILD_MSG
+/ help
+Description/Npcupgrade
+Descripton/reform
+Descripton/Precess
+Descripton/Refine
