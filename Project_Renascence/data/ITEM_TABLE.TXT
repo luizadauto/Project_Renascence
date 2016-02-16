@@ -721,7 +721,7 @@ end of skip
 736	1	Power Stun Chakuram	Power Stun Chakuram	Power Stun Chakuram	Power Stun Chakuram
 737	1	Magic Chakuram	Magic Chakuram	Magic Chakuram	Magic Chakuram
 738	1	Slash Chakuram	Slash Chakuram	Slash Chakuram	Slash Chakuram
-739	1	Pedra Para Amolar/Afiar(500)	Pedra Para Amolar/Afiar (500)	Pedra Para Amolar/Afiar(500)	Pedra Para Amolar/Afiar(500)
+739	1	Pedra Amoladeira(500)	Pedra Amoladeira(500)	Pedra Amoladeira(500)	Pedra Amoladeira(500)
 740	1	Charging Cannon	Charging Cannon	Charging Cannon	Charging Cannon
 741	1	Flame Thrower	Flame Thrower	Flame Thrower	Flame Thrower
 742	1	Laser Weapon	Laser Weapon	Laser Weapon	Laser Weapon
@@ -1038,8 +1038,8 @@ end of skip
 1066	1	Crumble Gun	Crumble Gun	Crumble Gun	Crumble Gun
 1067	1	Diamante Raro Bruto	Diamante Raro Bruto	Diamante Raro Bruto	Diamante Raro Bruto
 1068	1	Diamante Raro	Diamante Raro	Diamante Raro	Diamante Raro
-1069	1	Winter Knight Summon Stone	Winter Knight Summon Stone	Winter Knight Summon Stone	Winter Knight Summon Stone
-1070	1	Winter Knight Summon Stone(S)	Winter Knight Summon Stone(S)	Winter Knight Summon Stone(S)	Winter Knight Summon Stone(S)
+1069	1	Pedra Summon Cavaleito Gelido	Pedra Summon Cavaleito Gelido	Pedra Summon Cavaleito Gelido	Pedra Summon Cavaleito Gelido
+1070	1	Pedra Summon Cavaleito Gelido(S)	Pedra Summon Cavaleito Gelido(S)	Pedra Summon Cavaleito Gelido(S)	Pedra Summon Cavaleito Gelido(S)
 1071	0	Seal of Flame	Seal of Flame	Seal of Flame	Seal of Flame
 1072	0	Seal of Thunder	Seal of Thunder	Seal of Thunder	Seal of Thunder
 1073	1	Dmitron Pass	Dmitron Pass	Dmitron Pass	Dmitron Pass
@@ -1517,7 +1517,7 @@ end of skip
 1554	1	Super Devil Summon Stone	Super Devil Summon Stone	Super Devil Summon Stone	Super Devil Summon Stone
 1555	1	Super Shadow Summon Stone	Super Shadow Summon Stone	Super Shadow Summon Stone	Super Shadow Summon Stone
 1556	1	Super Dra Summon Stone	Super Dra Summon Stone	Super Dra Summon Stone	Super Dra Summon Stone
-1557	1	Winter Knight Summon Stone	Winter Knight Summon Stone	Winter Knight Summon Stone	Winter Knight Summon Stone
+1557	1	Pedra Summon Cavaleito Gelido	Pedra Summon Cavaleito Gelido	Pedra Summon Cavaleito Gelido	Pedra Summon Cavaleito Gelido
 1558	1	Big Ball Candy	Big Ball Candy	Big Ball Candy	Big Ball Candy
 1559	1	Big Apple	Big Apple	Big Apple	Big Apple
 1560	1	Isis Helmet	Isis Helmet	Isis Helmet	Isis Helmet
