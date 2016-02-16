@@ -974,8 +974,8 @@ end of skip
 1002	1	Summer set Pants	Summer set Pants	Summer set Pants	Summer set Pants
 1003	1	Summer set sandals	Summer set sandals	Summer set sandals	Summer set sandals
 1004	1	Mine	Mine	Mine	Mine
-1005	1	Chakuram Pedra Para Amolar/Afiar(1000)	Chakuram Pedra Para Amolar/afiar(1000)	Chakuram Pedra Para Amolar/Afiar(1000)	Chakuram Pedra Para Amolar/Afiar(1000)
-1006	1	Chakuram Pedra Para Amolar/Afiar(500)	Chakuram Pedra Para Amolar/Afiar(500)	Chakuram Pedra Para Amolar/Afiar(500)	Chakuram Pedra Para Amolar/Afiar(500)
+1005	1	 Pedra Amoladeira Chakuram(1000)	Pedra Amoladeira Chakuram(1000)	Pedra Amoladeira Chakuram(1000)	Pedra Amoladeira Chakuram(1000)
+1006	1	 Pedra Amoladeira Chakuram(500)	Pedra Amoladeira Chakuram(500)	Pedra Amoladeira Chakuram(500)	Pedra Amoladeira Chakuram(500)
 1007	1	Obrigado	Obrigado	Obrigado	Obrigado
 1008	1	Giving	Giving	Giving	Giving
 1009	1	Dia	Dia	Dia	Dia
@@ -984,7 +984,7 @@ end of skip
 1012	1	Incrivel especial Defesa	Incrivel especial Defesa	Incrivel especial Defesa	Incrivel especial Defesa
 1013	1	Especial dobro de Experiencia	Especial dobro de Experiencia	Especial dobro de Experiencia	Especial dobro de Experiencia
 1014	1	Lime	Lime	Lime	Lime
-1015	1	Teleporte Salvo  Teleporte Salvo Teleporte Salvo Teleporte Salvo
+1015	1	Teleporte Salvo  
 1016	1	Charger Circuit	Charger Circuit	Charger Circuit	Charger Circuit
 1017	1	Magic Leather	Magic Leather	Magic Leather	Magic Leather
 1018	1	Chalk	Chalk	Chalk	Chalk
@@ -2923,33 +2923,33 @@ end of skip
 2986	1	Bless Fragments of Soul Armor Recipe	Bless Fragments of Soul Armor Recipe	Bless Fragments of Soul Armor Recipe	Bless Fragments of Soul Armor Recipe
 2987	1	Bless Soul Weapon Crystal Recipe	Bless Soul Weapon Crystal Recipe	Bless Soul Weapon Crystal Recipe	Bless Soul Weapon Crystal Recipe
 2988	1	Bless Soul Armor Crystal Recipe	Bless Soul Armor Crystal Recipe	Bless Soul Armor Crystal Recipe	Bless Soul Armor Crystal Recipe
-2989	1	Unstable Balmung Recipe	Unstable Balmung Recipe	Unstable Balmung Recipe	Unstable Balmung Recipe
-2990	1	Unstable Flamberge Recipe	Unstable Flamberge Recipe	Unstable Flamberge Recipe	Unstable Flamberge Recipe
-2991	1	Unstable Gae Bolg Recipe	Unstable Gae Bolg Recipe	Unstable Gae Bolg Recipe	Unstable Gae Bolg Recipe
-2992	1	Unstable Naegling Recipe	Unstable Naegling Recipe	Unstable Naegling Recipe	Unstable Naegling Recipe
-2993	1	Unstable Balisarda Recipe	Unstable Balisarda Recipe	Unstable Balisarda Recipe	Unstable Balisarda Recipe
-2994	1	Unstable Gram Recipe	Unstable Gram Recipe	Unstable Gram Recipe	Unstable Gram Recipe
-2995	1	Unstable Storm BAneler Recipe	Unstable Storm BAneler Recipe	Unstable Storm BAneler Recipe	Unstable Storm BAneler Recipe
-2996	1	Unstable BeastSoul Helmet Recipe	Unstable BeastSoul Helmet Recipe	Unstable BeastSoul Helmet Recipe	Unstable BeastSoul Helmet Recipe
-2997	1	Unstable BeastSoul Armor Recipe	Unstable BeastSoul Armor Recipe	Unstable BeastSoul Armor Recipe	Unstable BeastSoul Armor Recipe
-2998	1	Unstable BeastSoul Pants Recipe	Unstable BeastSoul Pants Recipe	Unstable BeastSoul Pants Recipe	Unstable BeastSoul Pants Recipe
-2999	1	Unstable BeastSoul Boots Recipe	Unstable BeastSoul Boots Recipe	Unstable BeastSoul Boots Recipe	Unstable BeastSoul Boots Recipe
-3000	1	Unstable Aegis Helmet Recipe	Unstable Aegis Helmet Recipe	Unstable Aegis Helmet Recipe	Unstable Aegis Helmet Recipe
-3001	1	Unstable Aegis Armor Recipe	Unstable Aegis Armor Recipe	Unstable Aegis Armor Recipe	Unstable Aegis Armor Recipe
-3002	1	Unstable Aegis Pants Recipe	Unstable Aegis Pants Recipe	Unstable Aegis Pants Recipe	Unstable Aegis Pants Recipe
-3003	1	Unstable Aegis Boots Recipe	Unstable Aegis Boots Recipe	Unstable Aegis Boots Recipe	Unstable Aegis Boots Recipe
-3004	1	Unstable Conic Flame Helmet Recipe	Unstable Conic Flame Helmet Recipe	Unstable Conic Flame Helmet Recipe	Unstable Conic Flame Helmet Recipe
-3005	1	Unstable Conic Flame Armor Recipe	Unstable Conic Flame Armor Recipe	Unstable Conic Flame Armor Recipe	Unstable Conic Flame Armor Recipe
-3006	1	Unstable Conic Flame Pants Recipe	Unstable Conic Flame Pants Recipe	Unstable Conic Flame Pants Recipe	Unstable Conic Flame Pants Recipe
-3007	1	Unstable Conic Flame Boots Recipe	Unstable Conic Flame Boots Recipe	Unstable Conic Flame Boots Recipe	Unstable Conic Flame Boots Recipe
-3008	1	Unstable Life-Guardian Helmet Recipe	Unstable Life-Guardian Helmet Recipe	Unstable Life-Guardian Helmet Recipe	Unstable Life-Guardian Helmet Recipe
-3009	1	Unstable Life-Guardian Armor Recipe	Unstable Life-Guardian Armor Recipe	Unstable Life-Guardian Armor Recipe	Unstable Life-Guardian Armor Recipe
-3010	1	Unstable Life-Guardian Pants Recipe	Unstable Life-Guardian Pants Recipe	Unstable Life-Guardian Pants Recipe	Unstable Life-Guardian Pants Recipe
-3011	1	Unstable Life-Guardian Boots Recipe	Unstable Life-Guardian Boots Recipe	Unstable Life-Guardian Boots Recipe	Unstable Life-Guardian Boots Recipe
-3012	1	Unstable Mana Influence Helmet Recipe	Unstable Mana Influence Helmet Recipe	Unstable Mana Influence Helmet Recipe	Unstable Mana Influence Helmet Recipe
-3013	1	Unstable Mana Influence Armor Recipe	Unstable Mana Influence Armor Recipe	Unstable Mana Influence Armor Recipe	Unstable Mana Influence Armor Recipe
-3014	1	Unstable Mana Influence Pants Recipe	Unstable Mana Influence Pants Recipe	Unstable Mana Influence Pants Recipe	Unstable Mana Influence Pants Recipe
-3015	1	Unstable Mana Influence Boots Recipe	Unstable Mana Influence Boots Recipe	Unstable Mana Influence Boots Recipe	Unstable Mana Influence Boots Recipe
+2989	1	(Instavel) Balmung Recipe	(Instavel) Balmung Recipe	(Instavel) Balmung Recipe	(Instavel) Balmung Recipe
+2990	1	(Instavel) Flamberge Recipe	(Instavel) Flamberge Recipe	(Instavel) Flamberge Recipe	(Instavel) Flamberge Recipe
+2991	1	(Instavel) Gae Bolg Recipe	(Instavel) Gae Bolg Recipe	(Instavel) Gae Bolg Recipe	(Instavel) Gae Bolg Recipe
+2992	1	(Instavel) Naegling Recipe	(Instavel) Naegling Recipe	(Instavel) Naegling Recipe	(Instavel) Naegling Recipe
+2993	1	(Instavel) Balisarda Recipe	(Instavel) Balisarda Recipe	(Instavel) Balisarda Recipe	(Instavel) Balisarda Recipe
+2994	1	(Instavel) Gram Recipe	(Instavel) Gram Recipe	(Instavel) Gram Recipe	(Instavel) Gram Recipe
+2995	1	(Instavel) Storm BAneler Recipe	(Instavel) Storm BAneler Recipe	(Instavel) Storm BAneler Recipe	(Instavel) Storm BAneler Recipe
+2996	1	(Instavel) BeastSoul Helmet Recipe	(Instavel) BeastSoul Helmet Recipe	(Instavel) BeastSoul Helmet Recipe	(Instavel) BeastSoul Helmet Recipe
+2997	1	(Instavel) BeastSoul Armor Recipe	(Instavel) BeastSoul Armor Recipe	(Instavel) BeastSoul Armor Recipe	(Instavel) BeastSoul Armor Recipe
+2998	1	(Instavel) BeastSoul Pants Recipe	(Instavel) BeastSoul Pants Recipe	(Instavel) BeastSoul Pants Recipe	(Instavel) BeastSoul Pants Recipe
+2999	1	(Instavel) BeastSoul Boots Recipe	(Instavel) BeastSoul Boots Recipe	(Instavel) BeastSoul Boots Recipe	(Instavel) BeastSoul Boots Recipe
+3000	1	(Instavel) Aegis Helmet Recipe	(Instavel) Aegis Helmet Recipe	(Instavel) Aegis Helmet Recipe	(Instavel) Aegis Helmet Recipe
+3001	1	(Instavel) Aegis Armor Recipe	(Instavel) Aegis Armor Recipe	(Instavel) Aegis Armor Recipe	(Instavel) Aegis Armor Recipe
+3002	1	(Instavel) Aegis Pants Recipe	(Instavel) Aegis Pants Recipe	(Instavel) Aegis Pants Recipe	(Instavel) Aegis Pants Recipe
+3003	1	(Instavel) Aegis Boots Recipe	(Instavel) Aegis Boots Recipe	(Instavel) Aegis Boots Recipe	(Instavel) Aegis Boots Recipe
+3004	1	(Instavel) Conic Flame Helmet Recipe	(Instavel) Conic Flame Helmet Recipe	(Instavel) Conic Flame Helmet Recipe	(Instavel) Conic Flame Helmet Recipe
+3005	1	(Instavel) Conic Flame Armor Recipe	(Instavel) Conic Flame Armor Recipe	(Instavel) Conic Flame Armor Recipe	(Instavel) Conic Flame Armor Recipe
+3006	1	(Instavel) Conic Flame Pants Recipe	(Instavel) Conic Flame Pants Recipe	(Instavel) Conic Flame Pants Recipe	(Instavel) Conic Flame Pants Recipe
+3007	1	(Instavel) Conic Flame Boots Recipe	(Instavel) Conic Flame Boots Recipe	(Instavel) Conic Flame Boots Recipe	(Instavel) Conic Flame Boots Recipe
+3008	1	(Instavel) Life-Guardian Helmet Recipe	(Instavel) Life-Guardian Helmet Recipe	(Instavel) Life-Guardian Helmet Recipe	(Instavel) Life-Guardian Helmet Recipe
+3009	1	(Instavel) Life-Guardian Armor Recipe	(Instavel) Life-Guardian Armor Recipe	(Instavel) Life-Guardian Armor Recipe	(Instavel) Life-Guardian Armor Recipe
+3010	1	(Instavel) Life-Guardian Pants Recipe	(Instavel) Life-Guardian Pants Recipe	(Instavel) Life-Guardian Pants Recipe	(Instavel) Life-Guardian Pants Recipe
+3011	1	(Instavel) Life-Guardian Boots Recipe	(Instavel) Life-Guardian Boots Recipe	(Instavel) Life-Guardian Boots Recipe	(Instavel) Life-Guardian Boots Recipe
+3012	1	(Instavel) Mana Influence Helmet Recipe	(Instavel) Mana Influence Helmet Recipe	(Instavel) Mana Influence Helmet Recipe	(Instavel) Mana Influence Helmet Recipe
+3013	1	(Instavel) Mana Influence Armor Recipe	(Instavel) Mana Influence Armor Recipe	(Instavel) Mana Influence Armor Recipe	(Instavel) Mana Influence Armor Recipe
+3014	1	(Instavel) Mana Influence Pants Recipe	(Instavel) Mana Influence Pants Recipe	(Instavel) Mana Influence Pants Recipe	(Instavel) Mana Influence Pants Recipe
+3015	1	(Instavel) Mana Influence Boots Recipe	(Instavel) Mana Influence Boots Recipe	(Instavel) Mana Influence Boots Recipe	(Instavel) Mana Influence Boots Recipe
 3016	1	Balmung Recipe	Balmung Recipe	Balmung Recipe	Balmung Recipe
 3017	1	Flamberge Recipe	Flamberge Recipe	Flamberge Recipe	Flamberge Recipe
 3018	1	Gae Bolg Recipe	Gae Bolg Recipe	Gae Bolg Recipe	Gae Bolg Recipe
@@ -3099,24 +3099,24 @@ end of skip
 3162	1	Materials Box	Materials Box	Materials Box	Materials Box
 3163	1	Materials Box	Materials Box	Materials Box	Materials Box
 3164	1	Materials Box	Materials Box	Materials Box	Materials Box
-3165	1	Unstable Jin - RPS-21 Black Widow Recipe	Unstable Jin - RPS-21 Black Widow Recipe	Unstable Jin - RPS-21 Black Widow Recipe	Unstable Jin - RPS-21 Black Widow Recipe
-3166	1	Unstable PS-22 Raptor Recipe	Unstable PS-22 Raptor Recipe	Unstable PS-22 Raptor Recipe	Unstable PS-22 Raptor Recipe
+3165	1	(Instavel) Jin - RPS-21 Black Widow Recipe	(Instavel) Jin - RPS-21 Black Widow Recipe	(Instavel) Jin - RPS-21 Black Widow Recipe	(Instavel) Jin - RPS-21 Black Widow Recipe
+3166	1	(Instavel) PS-22 Raptor Recipe	(Instavel) PS-22 Raptor Recipe	(Instavel) PS-22 Raptor Recipe	(Instavel) PS-22 Raptor Recipe
 3167	1	Gift Voucher	Gift Voucher	Gift Voucher	Gift Voucher
-3168	1	Unstable TYPE02 Phantom Helmet Recipe	Unstable TYPE02 Phantom Helmet Recipe	Unstable TYPE02 Phantom Helmet Recipe	Unstable TYPE02 Phantom Helmet Recipe
-3169	1	Unstable TYPE02 Phantom Armor Recipe	Unstable TYPE02 Phantom Armor Recipe	Unstable TYPE02 Phantom Armor Recipe	Unstable TYPE02 Phantom Armor Recipe
-3170	1	Unstable TYPE02 Phantom Pants Recipe	Unstable TYPE02 Phantom Pants Recipe	Unstable TYPE02 Phantom Pants Recipe	Unstable TYPE02 Phantom Pants Recipe
-3171	1	Unstable TYPE02 Phantom Boots Recipe	Unstable TYPE02 Phantom Boots Recipe	Unstable TYPE02 Phantom Boots Recipe	Unstable TYPE02 Phantom Boots Recipe
-3172	1	Unstable TYPE03 Mirage Helmet Recipe	Unstable TYPE03 Mirage Helmet Recipe	Unstable TYPE03 Mirage Helmet Recipe	Unstable TYPE03 Mirage Helmet Recipe
-3173	1	Unstable TYPE03 Mirage Armor Recipe	Unstable TYPE03 Mirage Armor Recipe	Unstable TYPE03 Mirage Armor Recipe	Unstable TYPE03 Mirage Armor Recipe
-3174	1	Unstable TYPE03 Mirage Pants Recipe	Unstable TYPE03 Mirage Pants Recipe	Unstable TYPE03 Mirage Pants Recipe	Unstable TYPE03 Mirage Pants Recipe
-3175	1	Unstable TYPE03 Mirage Boots Recipe	Unstable TYPE03 Mirage Boots Recipe	Unstable TYPE03 Mirage Boots Recipe	Unstable TYPE03 Mirage Boots Recipe
-3176	1	Unstable Chaser Parts Recipe	Unstable Chaser Parts Recipe	Unstable Chaser Parts Recipe	Unstable Chaser Parts Recipe
-3177	1	Unstable Destroyer Parts Recipe	Unstable Destroyer Parts Recipe	Unstable Destroyer Parts Recipe	Unstable Destroyer Parts Recipe
+3168	1	(Instavel) TYPE02 Phantom Helmet Recipe	(Instavel) TYPE02 Phantom Helmet Recipe	(Instavel) TYPE02 Phantom Helmet Recipe	(Instavel) TYPE02 Phantom Helmet Recipe
+3169	1	(Instavel) TYPE02 Phantom Armor Recipe	(Instavel) TYPE02 Phantom Armor Recipe	(Instavel) TYPE02 Phantom Armor Recipe	(Instavel) TYPE02 Phantom Armor Recipe
+3170	1	(Instavel) TYPE02 Phantom Pants Recipe	(Instavel) TYPE02 Phantom Pants Recipe	(Instavel) TYPE02 Phantom Pants Recipe	(Instavel) TYPE02 Phantom Pants Recipe
+3171	1	(Instavel) TYPE02 Phantom Boots Recipe	(Instavel) TYPE02 Phantom Boots Recipe	(Instavel) TYPE02 Phantom Boots Recipe	(Instavel) TYPE02 Phantom Boots Recipe
+3172	1	(Instavel) TYPE03 Mirage Helmet Recipe	(Instavel) TYPE03 Mirage Helmet Recipe	(Instavel) TYPE03 Mirage Helmet Recipe	(Instavel) TYPE03 Mirage Helmet Recipe
+3173	1	(Instavel) TYPE03 Mirage Armor Recipe	(Instavel) TYPE03 Mirage Armor Recipe	(Instavel) TYPE03 Mirage Armor Recipe	(Instavel) TYPE03 Mirage Armor Recipe
+3174	1	(Instavel) TYPE03 Mirage Pants Recipe	(Instavel) TYPE03 Mirage Pants Recipe	(Instavel) TYPE03 Mirage Pants Recipe	(Instavel) TYPE03 Mirage Pants Recipe
+3175	1	(Instavel) TYPE03 Mirage Boots Recipe	(Instavel) TYPE03 Mirage Boots Recipe	(Instavel) TYPE03 Mirage Boots Recipe	(Instavel) TYPE03 Mirage Boots Recipe
+3176	1	(Instavel) Chaser Parts Recipe	(Instavel) Chaser Parts Recipe	(Instavel) Chaser Parts Recipe	(Instavel) Chaser Parts Recipe
+3177	1	(Instavel) Destroyer Parts Recipe	(Instavel) Destroyer Parts Recipe	(Instavel) Destroyer Parts Recipe	(Instavel) Destroyer Parts Recipe
 3178	1	10th Anniversary cape(W)	10th Anniversary cape(W)	10th Anniversary cape(W)	10th Anniversary cape(W)
 3179	1	10th Anniversary cape(B)	10th Anniversary cape(B)	10th Anniversary cape(B)	10th Anniversary cape(B)
-3180	1	Unstable Great Diamante Recipe	Unstable Great Diamante Recipe	Unstable Great Diamante Recipe	Unstable Great Diamante Recipe
-3181	1	Unstable Diamante Raro Recipe	Unstable Diamante Raro Recipe	Unstable Diamante Raro Recipe	Unstable Diamante Raro Recipe
-3182	1	Unstable Great Diamante Raro Recipe	Unstable Great Diamante Raro Recipe	Unstable Great Diamante Raro Recipe	Unstable Great Diamante Raro Recipe
+3180	1	(Instavel) Great Diamante Recipe	(Instavel) Great Diamante Recipe	(Instavel) Great Diamante Recipe	(Instavel) Great Diamante Recipe
+3181	1	(Instavel) Diamante Raro Recipe	(Instavel) Diamante Raro Recipe	(Instavel) Diamante Raro Recipe	(Instavel) Diamante Raro Recipe
+3182	1	(Instavel) Great Diamante Raro Recipe	(Instavel) Great Diamante Raro Recipe	(Instavel) Great Diamante Raro Recipe	(Instavel) Great Diamante Raro Recipe
 3183	1	Great Diamante Recipe	Great Diamante Recipe	Great Diamante Recipe	Great Diamante Recipe
 3184	1	Diamante Raro Recipe	Diamante Raro Recipe	Diamante Raro Recipe	Diamante Raro Recipe
 3185	1	Great Diamante Raro Recipe	Great Diamante Raro Recipe	Great Diamante Raro Recipe	Great Diamante Raro Recipe
@@ -3167,17 +3167,17 @@ end of skip
 3230	1	TYPE04 Mad Boots	TYPE04 Mad Boots	TYPE04 Mad Boots	TYPE04 Mad Boots
 3231	1	PS-35 Double Spear	PS-35 Double Spear	PS-35 Double Spear	PS-35 Double Spear
 3232	1	Decimator Parts	Decimator Parts	Decimator Parts	Decimator Parts
-3233	1	Unstable TYPE04 Mad Helmet Recipe	Unstable TYPE04 Mad Helmet Recipe	Unstable TYPE04 Mad Helmet Recipe	Unstable TYPE04 Mad Helmet Recipe
-3234	1	Unstable TYPE04 Mad Armor Recipe	Unstable TYPE04 Mad Armor Recipe	Unstable TYPE04 Mad Armor Recipe	Unstable TYPE04 Mad Armor Recipe
-3235	1	Unstable TYPE04 Mad Pants Recipe	Unstable TYPE04 Mad Pants Recipe	Unstable TYPE04 Mad Pants Recipe	Unstable TYPE04 Mad Pants Recipe
-3236	1	Unstable TYPE04 Mad Boots Recipe	Unstable TYPE04 Mad Boots Recipe	Unstable TYPE04 Mad Boots Recipe	Unstable TYPE04 Mad Boots Recipe
-3237	1	Unstable PS-35 Double Spear Recipe	Unstable PS-35 Double Spear Recipe	Unstable PS-35 Double Spear Recipe	Unstable PS-35 Double Spear Recipe
-3238	1	Unstable Decimator Parts Recipe	Unstable Decimator Parts Recipe	Unstable Decimator Parts Recipe	Unstable Decimator Parts Recipe
-3239	1	Unstable Dragao Demolicao Recipe	Unstable Dragao Demolicao Recipe	Unstable Dragao Demolicao Recipe	Unstable Dragao Demolicao Recipe
-3240	1	Unstable Urboros Wand Recipe	Unstable Urboros Wand Recipe	Unstable Urboros Wand Recipe	Unstable Urboros Wand Recipe
-3241	1	Unstable Blue Dragon Stone Recipe	Unstable Blue Dragon Stone Recipe	Unstable Blue Dragon Stone Recipe	Unstable Blue Dragon Stone Recipe
-3242	1	Unstable Euterfe Flute Recipe	Unstable Euterfe Flute Recipe	Unstable Euterfe Flute Recipe	Unstable Euterfe Flute Recipe
-3243	1	Unstable TomaHawk-MK3 Recipe	Unstable TomaHawk-MK3 Recipe	Unstable TomaHawk-MK3 Recipe	Unstable TomaHawk-MK3 Recipe
+3233	1	(Instavel) TYPE04 Mad Helmet Recipe	(Instavel) TYPE04 Mad Helmet Recipe	(Instavel) TYPE04 Mad Helmet Recipe	(Instavel) TYPE04 Mad Helmet Recipe
+3234	1	(Instavel) TYPE04 Mad Armor Recipe	(Instavel) TYPE04 Mad Armor Recipe	(Instavel) TYPE04 Mad Armor Recipe	(Instavel) TYPE04 Mad Armor Recipe
+3235	1	(Instavel) TYPE04 Mad Pants Recipe	(Instavel) TYPE04 Mad Pants Recipe	(Instavel) TYPE04 Mad Pants Recipe	(Instavel) TYPE04 Mad Pants Recipe
+3236	1	(Instavel) TYPE04 Mad Boots Recipe	(Instavel) TYPE04 Mad Boots Recipe	(Instavel) TYPE04 Mad Boots Recipe	(Instavel) TYPE04 Mad Boots Recipe
+3237	1	(Instavel) PS-35 Double Spear Recipe	(Instavel) PS-35 Double Spear Recipe	(Instavel) PS-35 Double Spear Recipe	(Instavel) PS-35 Double Spear Recipe
+3238	1	(Instavel) Decimator Parts Recipe	(Instavel) Decimator Parts Recipe	(Instavel) Decimator Parts Recipe	(Instavel) Decimator Parts Recipe
+3239	1	(Instavel) Dragao Demolicao Recipe	(Instavel) Dragao Demolicao Recipe	(Instavel) Dragao Demolicao Recipe	(Instavel) Dragao Demolicao Recipe
+3240	1	(Instavel) Urboros Wand Recipe	(Instavel) Urboros Wand Recipe	(Instavel) Urboros Wand Recipe	(Instavel) Urboros Wand Recipe
+3241	1	(Instavel) Blue Dragon Stone Recipe	(Instavel) Blue Dragon Stone Recipe	(Instavel) Blue Dragon Stone Recipe	(Instavel) Blue Dragon Stone Recipe
+3242	1	(Instavel) Euterfe Flute Recipe	(Instavel) Euterfe Flute Recipe	(Instavel) Euterfe Flute Recipe	(Instavel) Euterfe Flute Recipe
+3243	1	(Instavel) TomaHawk-MK3 Recipe	(Instavel) TomaHawk-MK3 Recipe	(Instavel) TomaHawk-MK3 Recipe	(Instavel) TomaHawk-MK3 Recipe
 3244	1	Decimator Parts Recipe	Decimator Parts Recipe	Decimator Parts Recipe	Decimator Parts Recipe
 3245	1	Dragao Demolicao Recipe	Dragao Demolicao Recipe	Dragao Demolicao Recipe	Dragao Demolicao Recipe
 3246	1	Urboros Wand Recipe	Urboros Wand Recipe	Urboros Wand Recipe	Urboros Wand Recipe
@@ -3239,9 +3239,9 @@ end of skip
 3332	1	Bright God Stone	Bright God Stone	Bright God Stone	Bright God Stone
 3333	1	Artifacts (Gem)	Artifacts (Gem)	Artifacts (Gem)	Artifacts (Gem)
 3334	1	God Weapon Adjust	God Weapon Adjust	God Weapon Adjust	God Weapon Adjust
-3335	1	Unstable God of Perom Spear Recipe	Unstable God of Perom Spear Recipe	Unstable God of Perom Spear Recipe	Unstable God of Perom Spear Recipe
+3335	1	(Instavel) God of Perom Spear Recipe	(Instavel) God of Perom Spear Recipe	(Instavel) God of Perom Spear Recipe	(Instavel) God of Perom Spear Recipe
 3336	1	God of Perom Spear Recipe	God of Perom Spear Recipe	God of Perom Spear Recipe	God of Perom Spear Recipe
-3337	1	Unstable Bright God Stone Recipe	Unstable Bright God Stone Recipe	Unstable Bright God Stone Recipe	Unstable Bright God Stone Recipe
+3337	1	(Instavel) Bright God Stone Recipe	(Instavel) Bright God Stone Recipe	(Instavel) Bright God Stone Recipe	(Instavel) Bright God Stone Recipe
 3338	1	Bright God Stone Recipe	Bright God Stone Recipe	Bright God Stone Recipe	Bright God Stone Recipe
 3339	1	Vallo(Balck) Coupon	Vallo(Balck) Coupon	Vallo(Balck) Coupon	Vallo(Balck) Coupon
 3340	1	Vallo(Green) Coupon	Vallo(Green) Coupon	Vallo(Green) Coupon	Vallo(Green) Coupon
