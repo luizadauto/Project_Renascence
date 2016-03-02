@@ -57,7 +57,7 @@ end of skip
 74	Laghaim	?????	Laghaim	Laghaim
 75	*PM*	*???*	*PM*	*PM*
 76	*GUILD*	*GUILD*	*GUILD*	*GUILD*
-77	*Grupo*	*Grupo*	*Grupo*	*Grupo*
+77	*Party*	*Party*	*Party*	*Party*
 78	GM	LGAHIM	GM	GM
 79	*GM*	gm	*GM*	*GM*
 80	GameMaster	Gm	GameMaster	Game Master
@@ -359,7 +359,7 @@ end of skip
 379	Defesa Magica Especial %d Aumenta	????? %d ??	Defesa Magica Especial %d Aumenta	Defesa Magica Especial %d Aumenta
 380	*PM*	*???*	*PM*	*PM*
 381	*GUILD*	*GUILD*	*GUILD*	*GUILD*
-382	*Grupo*	*Grupo*	*Grupo*	*Grupo*
+382	*Party*	*Party*	*Party*	*Party*
 383	//Deny request to whisper	//nc	//Deny request to whisper	//????????????
 384	//Exchange	//ex 	//Exchange	//??????
 385	//Refine	//refine 	//Refine	//?????
