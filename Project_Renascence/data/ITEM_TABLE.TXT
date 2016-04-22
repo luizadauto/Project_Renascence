@@ -2,17 +2,17 @@
 end of skip
 3	0	White Bra	White Bra	White Bra	White Bra
 4	0	White Underwear	White Underwear	White Underwear	White Underwear
-5	0	Xeno Mask	Xeno Mask	Xeno Mask	Xeno Mask
-6	1	Xeno Helmet	Xeno Helmet	Xeno Helmet	Xeno Helmet
-7	1	Brince Helmet	Brince Helmet	Brince Helmet	Brince Helmet
-8	0	Iron Mask	Iron Mask	Iron Mask	Iron Mask
-9	1	Iron Helmet	Iron Helmet	Iron Helmet	Iron Helmet
+5	0	Mascara Xeno	Mascara Xeno	Mascara Xeno	Mascara Xeno
+6	1	Capacete Xeno	Capacete Xeno	Capacete Xeno	Capacete Xeno
+7	1	Capacete Brinc	Capacete Brinc	Capacete Brinc	Capacete Brinc
+8	0	Mascara de Ferro	Mascara de Ferro	Mascara de Ferro	Mascara de Ferro
+9	1	Capacete de Ferro	Capacete de Ferro	Capacete de Ferro	Capacete de Ferro
 10	1	Skull Helmet	Skull Helmet	Skull Helmet	Skull Helmet
 11	0	Chain Helmet	Chain Helmet	Chain Helmet	Chain Helmet
 12	1	Hell Helmet	Hell Helmet	Hell Helmet	Hell Helmet
 13	0	Golden Mask	Golden Mask	Golden Mask	Golden Mask
 14	1	Golden Helmet	Golden Helmet	Golden Helmet	Golden Helmet
-15	1	Xeno Armor	Xeno Armor	Xeno Armor	Xeno Armor
+15	1	Armadura Xeno	Armadura Xeno	Armadura Xeno	Armadura Xeno
 16	1	Brince Armor	Brince Armor	Brince Armor	Brince Armor
 17	1	Iron Armor	Iron Armor	Iron Armor	Iron Armor
 18	0	Breast Plate	Breast Plate	Breast Plate	Breast Plate
@@ -173,8 +173,8 @@ end of skip
 180	1	Power Axe	Power Axe	Power Axe	Power Axe
 181	1	Evil Staff	Evil Staff	Evil Staff	Evil Staff
 182	1	Esmeralda Staff	Esmeralda Staff	Esmeralda Staff	Esmeralda Staff
-183	1	Xeno Helmet	Xeno Helmet	Xeno Helmet	Xeno Helmet
-184	1	Xeno Armor	Xeno Armor	Xeno Armor	Xeno Armor
+183	1	Capacete Xeno	Capacete Xeno	Capacete Xeno	Capacete Xeno
+184	1	Armadura Xeno	Armadura Xeno	Armadura Xeno	Armadura Xeno
 185	1	Xeno Pants	Xeno Pants	Xeno Pants	Xeno Pants
 186	1	Xene Boots	Xene Boots	Xene Boots	Xene Boots
 187	1	Brince Shield	Brince Shield	Brince Shield	Brince Shield
@@ -299,8 +299,8 @@ end of skip
 308	1	Coliseum Warp	Coliseum Warp	Coliseum Warp	Coliseum Warp
 309	1	Hair Band	Hair Band	Hair Band	Hair Band
 310	1	Warrior Helmet	Warrior Helmet	Warrior Helmet	Warrior Helmet
-311	1	Iron Helmet	Iron Helmet	Iron Helmet	Iron Helmet
-312	1	Xeno Helmet	Xeno Helmet	Xeno Helmet	Xeno Helmet
+311	1	Capacete de Ferro	Capacete de Ferro	Capacete de Ferro	Capacete de Ferro
+312	1	Capacete Xeno	Capacete Xeno	Capacete Xeno	Capacete Xeno
 313	1	Brino Helmet	Brino Helmet	Brino Helmet	Brino Helmet
 314	1	Xeno Metal Helmet	Xeno Metal Helmet	Xeno Metal Helmet	Xeno Metal Helmet
 315	1	Pahwang Helmet	Pahwang Helmet	Pahwang Helmet	Pahwang Helmet
@@ -314,7 +314,7 @@ end of skip
 325	1	Warrior Armor	Warrior Armor	Warrior Armor	Warrior Armor
 326	1	Leather Jacket	Leather Jacket	Leather Jacket	Leather Jacket
 327	1	Iron Armor	Iron Armor	Iron Armor	Iron Armor
-328	1	Xeno Armor	Xeno Armor	Xeno Armor	Xeno Armor
+328	1	Armadura Xeno	Armadura Xeno	Armadura Xeno	Armadura Xeno
 329	1	Brino Armor	Brino Armor	Brino Armor	Brino Armor
 330	1	Xeno Metal Armor	Xeno Metal Armor	Xeno Metal Armor	Xeno Metal Armor
 331	1	Pahwang Armor	Pahwang Armor	Pahwang Armor	Pahwang Armor
@@ -1031,42 +1031,42 @@ end of skip
 1059	1	Black Bikini Wear	Black Bikini Wear	Black Bikini Wear	Black Bikini Wear
 1060	1	Swimming Trunks	Swimming Trunks	Swimming Trunks	Swimming Trunks
 1061	1	Speedo Pants	Speedo Pants	Speedo Pants	Speedo Pants
-1062	1	Defeat Sword	Defeat Sword	Defeat Sword	Defeat Sword
-1063	1	Havoc Axe	Havoc Axe	Havoc Axe	Havoc Axe
-1064	1	Ruin Staff	Ruin Staff	Ruin Staff	Ruin Staff
-1065	1	Devil Anel	Devil Anel	Devil Anel	Devil Anel
-1066	1	Crumble Gun	Crumble Gun	Crumble Gun	Crumble Gun
+1062	1	Espada da Derrota	Espada da Derrota	Espada da Derrota	Espada da Derrota
+1063	1	Machado da Destruicao	Machado da Destruicao	Machado da Destruicao	Machado da Destruicao
+1064	1	Cajado de Ruina	Cajado de Ruina	Cajado de Ruina	Cajado de Ruina
+1065	1	Anel do Demonio	Anel do Demonio	Anel do Demonio	Anel do Demonio
+1066	1	Rifle do Dragao	Rifle do Dragao	Rifle do Dragao	Rifle do Dragao
 1067	1	Diamante Raro Bruto	Diamante Raro Bruto	Diamante Raro Bruto	Diamante Raro Bruto
 1068	1	Diamante Raro	Diamante Raro	Diamante Raro	Diamante Raro
-1069	1	Pedra Summon Cavaleito Gelido	Pedra Summon Cavaleito Gelido	Pedra Summon Cavaleito Gelido	Pedra Summon Cavaleito Gelido
-1070	1	Pedra Summon Cavaleito Gelido(S)	Pedra Summon Cavaleito Gelido(S)	Pedra Summon Cavaleito Gelido(S)	Pedra Summon Cavaleito Gelido(S)
-1071	0	Seal of Flame	Seal of Flame	Seal of Flame	Seal of Flame
-1072	0	Seal of Thunder	Seal of Thunder	Seal of Thunder	Seal of Thunder
-1073	1	Dmitron Pass	Dmitron Pass	Dmitron Pass	Dmitron Pass
-1074	0	Lucky Key	Lucky Key	Lucky Key	Lucky Key
-1075	1	Dragon Capsule	Dragon Capsule	Dragon Capsule	Dragon Capsule
-1076	1	Spirit Capsule	Spirit Capsule	Spirit Capsule	Spirit Capsule
-1077	1	Ancient Sword	Ancient Sword	Ancient Sword	Ancient Sword
-1078	1	Ancient Axe	Ancient Axe	Ancient Axe	Ancient Axe
-1079	1	Ancient Staff	Ancient Staff	Ancient Staff	Ancient Staff
-1080	1	Ancient Gun	Ancient Gun	Ancient Gun	Ancient Gun
-1081	1	Ancient Anel	Ancient Anel	Ancient Anel	Ancient Anel
+1069	1	Invocacao Cavaleiro Gelido	Invocacao Cavaleiro Gelido	Invocacao Cavaleiro Gelido	Invocacao Cavaleiro Gelido
+1070	1	Invocacao Cavaleiro Gelido(S)	Invocacao Cavaleiro Gelido(S)	Invocacao Cavaleiro Gelido(S)	Invocacao Cavaleiro Gelido(S)
+1071	0	Selo do Fogo	Selo do Fogo	Selo do Fogo	Selo do Fogo
+1072	0	Selo do Trovao	Selo do Trovao	Selo do Trovao	Selo do Trovao
+1073	1	Passe para Dumitron	Passe para Dumitron	Passe para Dumitron	Passe para Dumitron
+1074	0	Chave da Sorte	Chave da Sorte	Chave da Sorte	Chave da Sorte
+1075	1	Capsula do Dragao	Capsula do Dragao	Capsula do Dragao	Capsula do Dragao
+1076	1	Capsula Espiritual	Capsula Espiritual	Capsula Espiritual	Capsula Espiritual
+1077	1	Restos antigos  (Espadas)	Restos antigos  (Espadas)	Restos antigos  (Espadas)	Restos antigos  (Espadas)
+1078	1	Restos antigos  (Machados)	Restos antigos  (Machados)	Restos antigos  (Machados)	Restos antigos  (Machados)
+1079	1	Restos antigos  (Cajados)	Restos antigos  (Cajados)	Restos antigos  (Cajados)	Restos antigos  (Cajados)
+1080	1	Restos antigos  (Armas)	Restos antigos  (Armas)	Restos antigos  (Armas)	Restos antigos  (Armas)
+1081	1	Anel ancestral Anel ancestral	Anel ancestral	Anel ancestral
 1082	1	Quad-Cracker	Quad-Cracker	Quad-Cracker	Quad-Cracker
 1083	1	Rainbow Firecracker	Rainbow Firecracker	Rainbow Firecracker	Rainbow Firecracker
 1084	1	Songpyun	Songpyun	Songpyun	Songpyun
-1085	1	Crown	Crown	Crown	Crown
+1085	1	Coroa	Coroa	Coroa	Coroa
 1086	1	Corega	Corega	Corega	Corega
 1087	1	Bracelete Evolutivo	Bracelete Evolutivo	Bracelete Evolutivo	Bracelete Evolutivo
-1088	1	Seal of Power	Seal of Power	Seal of Power	Seal of Power
-1089	1	Mystic Contract	Mystic Contract	Mystic Contract	Mystic Contract
-1090	1	Seal of Flame	Seal of Flame	Seal of Flame	Seal of Flame
-1091	1	Fury of Thunder	Fury of Thunder	Fury of Thunder	Fury of Thunder
-1092	1	Seal of Freedom	Seal of Freedom	Seal of Freedom	Seal of Freedom
-1093	1	Seal of Hero	Seal of Hero	Seal of Hero	Seal of Hero
-1094	1	Power of Protecao	Power of Protecao	Power of Protecao	Power of Protecao
-1095	1	Metamorphosis	Metamorphosis	Metamorphosis	Metamorphosis
-1096	1	Wave of Change	Wave of Change	Wave of Change	Wave of Change
-1097	1	Sign of Life	Sign of Life	Sign of Life	Sign of Life
+1088	1	Selo do Poder	Selo do Poder	Selo do Poder	Selo do Poder
+1089	1	Contrato Mistico	Contrato Mistico	Contrato Mistico	Contrato Mistico
+1090	1	Selo do Fogo	Selo do Fogo	Selo do Fogo	Selo do Fogo
+1091	1	Selo do Trovao	Selo do Trovao	Selo do Trovao	Selo do Trovao
+1092	1	Selo da Liberdade	Selo da Liberdade	Selo da Liberdade	Selo da Liberdade
+1093	1	Selo do Heroi	Selo do Heroi	Selo do Heroi	Selo do Heroi
+1094	1	Poder de Protecao	Poder de Protecao	Poder de Protecao	Poder de Protecao
+1095	1	Metamorfose	Metamorfose	Metamorfose	Metamorfose
+1096	1	Onda de Mudanca	Onda de Mudanca	Onda de Mudanca	Onda de Mudanca
+1097	1	Sinal da Vida	Sinal da Vida	Sinal da Vida	Sinal da Vida
 1098	1	Devil Mask	Devil Mask	Devil Mask	Devil Mask
 1099	1	Demon Mask	Demon Mask	Demon Mask	Demon Mask
 1100	1	Skull Mask	Skull Mask	Skull Mask	Skull Mask
